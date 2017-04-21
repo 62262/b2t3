@@ -1,0 +1,12 @@
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\Price Checker.exe.config
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\Price Checker.exe
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\Price Checker.pdb
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price Checker.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price_Checker.Form1.resources
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price_Checker.Properties.Resources.resources
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price Checker.csproj.GenerateResource.Cache
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price Checker.exe
+c:\users\marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\obj\Debug\Price Checker.pdb
+C:\Users\Marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Marco\documents\visual studio 2017\Projects\Price Checker\Price Checker\bin\Debug\HtmlAgilityPack.xml
